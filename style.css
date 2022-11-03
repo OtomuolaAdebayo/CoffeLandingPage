@@ -1,0 +1,19 @@
+body {
+    background-color: #cfbfbe;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+}
+
+.navbar {
+    color: #ece2eb;
+    font-size: 1.7rem;
+}
+
+.navbar .navbar-header a:hover , .navbar .nav li a:hover {
+    color: #3330c9;
+}
+
+.container .row img {
+    width: 265px;
+    height: 176px;
+}
